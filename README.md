@@ -3,4 +3,4 @@
 
 Re colorization for CVD(Color Vision Deficiency)
 
-Project of ITRC-Korea University (2022.03.20~)
+Project of SSRC-Korea University (2022.03.20~)
