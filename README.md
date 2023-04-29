@@ -12,3 +12,5 @@ Project of SSRC-Korea University (2022.03.20~2022.12.27)
    - code: https://github.com/doubletry/pix2pix
    
 2. Dataset : https://pan.baidu.com/
+
+3. Pix2Pix : https://github.com/NVIDIA/pix2pixHD
